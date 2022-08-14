@@ -1,3 +1,6 @@
+![](https://github.com/ismailsevgi/refactoring-code-cat.gif)
+
+
 <h1>Hi 👋, I'm İsmail</h1>
 <h3>A web developer from Turkey</h3>
 
