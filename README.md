@@ -1,4 +1,5 @@
-![](https://github.com/ismailsevgi/refactoring-code-cat.gif)
+
+![refactoring-code-cat](https://user-images.githubusercontent.com/100145738/184540883-91c2dca3-2325-48e3-9c64-58389c771d76.gif)
 
 
 <h1>Hi 👋, I'm İsmail</h1>
