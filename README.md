@@ -41,7 +41,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailsevgi&show_icons=true&locale=en&layout=compact" alt="ismailsevgi" /></p>
 
-# Projects...
+<h1>My Favorite Projects</h1>
 <ol>
 <li>
 <a href="https://ismailsevgi.github.io/habit_tracker/" target="_blank">Habit Tracker</a>
