@@ -41,3 +41,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailsevgi&show_icons=true&locale=en&layout=compact" alt="ismailsevgi" /></p>
 
+# Projects...
+<ol>
+<li>
+<a href="https://ismailsevgi.github.io/habit_tracker/" target="_blank">Habit Tracker</a>
+</li>
+<li>
+<a href="https://popupsmartpracticum.netlify.app/?" target="_blank">Todo App</a>
+</li>
+  </ol>
