@@ -60,6 +60,15 @@
 
 <h1>My Favorite Projects</h1>
 <ol>
+  <li>
+<a href="https://github.com/ismailsevgi/blog-project" target="_blank">Blog site</a>
+</li>
+  <li>
+<a href="https://github.com/ismailsevgi/PC-Components-Market" target="_blank">E-Commerce site</a>
+</li>
+  <li>
+<a href="https://github.com/ismailsevgi/sozial-hub" target="_blank">Insta Clone</a>
+</li>
 <li>
 <a href="https://ismailsevgi.github.io/habit_tracker/" target="_blank">Habit Tracker</a>
 </li>
