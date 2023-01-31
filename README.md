@@ -67,7 +67,7 @@
 <a href="https://github.com/ismailsevgi/sozial-hub" target="_blank">Insta Clone</a>
 </li>
 <li>
-<a href="https://ismailsevgi.github.io/habit_tracker/" target="_blank">Habit Tracker</a>
+<a href="habit-tracker-r04pxu052-ismailsevgi.vercel.app" target="_blank">Habit Tracker</a>
 </li>
 <li>
 <a href="https://popupsmartpracticum.netlify.app/?" target="_blank">Todo App</a>
